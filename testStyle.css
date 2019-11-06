@@ -10,7 +10,7 @@ body{
 }
 .navbar-brand{
     color:rgb(237,234,229);
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', sans-serif;
     font-weight: bolder;
 }
 .navbar a:hover{
@@ -31,7 +31,7 @@ body{
 .navbar-nav li a:link{
    background-color: rgb(37,40,42);
     color: rgb(237,234,229);
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', sans-serif;
 }
 .navbar-nav li a:visited{
     background-color: rgb(37,40,42);
@@ -66,27 +66,30 @@ body{
     padding-left: 0px;
 }
 
+/* ----- rows ----- */
+.row{ margin-left:0; margin-right: 0}
+
 /* ----- Headings ----- */
 h1{
     color:rgb(53, 53, 53);
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', sans-serif;
     font-weight: bolder;
     text-align: center;
 }
 h3{
     color:rgb(53, 53, 53);
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', sans-serif;
     font-weight: bolder;
 
 }
 h4{
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', sans-serif;
     font-size: 30px;
 }
 /* ----- Para ----- */
 p{
     font-size: 20px;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', sans-serif;
 }
 /*----- line ----- */
 hr{
@@ -100,7 +103,7 @@ a{
 /* ----- list ----- */
 ul{
     color:rgb(53, 53, 53);
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', sans-serif;
     font-weight: bolder;
     font-size: 20px;
 }
